@@ -130,15 +130,4 @@ footer {
 footer a {
   color: #ffaaaa;
 }
-
-/* Responsive para pantallas pequeñas */
-@media (max-width: 700px) {
-  .contenido-principal {
-    flex-direction: column;
-  }
-
-  nav ul {
-    flex-direction: column;
-    align-items: center;
-  }
 }
